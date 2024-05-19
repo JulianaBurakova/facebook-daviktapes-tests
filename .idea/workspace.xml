@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbca33f4-12b8-484b-9093-6583e6b9c4c7" name="Changes" comment="" />
@@ -10,12 +10,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2gVdYA7YeT24XsFtW5qYeEpkJOg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,13 +34,140 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.DaviktapesTest.actionTest.executor": "Run",
+    "JUnit.DaviktapesTest.executor": "Run",
+    "JUnit.DaviktapesTest.menuActionTest.executor": "Run",
+    "JUnit.DaviktapesTest.testTopMenuOptions.executor": "Run",
+    "JUnit.FirstSeleniumTest (1).executor": "Run",
+    "JUnit.FirstSeleniumTest.FindElementsNewAccountTest.executor": "Run",
+    "JUnit.FirstSeleniumTest.actionTest.executor": "Run",
+    "JUnit.FirstSeleniumTest.createNewAccTest.executor": "Run",
+    "JUnit.FirstSeleniumTest.createNewAccountBtn.executor": "Run",
+    "JUnit.FirstSeleniumTest.dayTestParameterized.executor": "Run",
+    "JUnit.FirstSeleniumTest.errorMessageTest.executor": "Run",
+    "JUnit.FirstSeleniumTest.executor": "Run",
+    "JUnit.FirstSeleniumTest.findElementByAttributeTest.executor": "Run",
+    "JUnit.FirstSeleniumTest.findElementsByXpathTest.executor": "Run",
+    "JUnit.FirstSeleniumTest.findEmailFieldTest.executor": "Run",
+    "JUnit.FirstSeleniumTest.genderTest.executor": "Run",
+    "JUnit.FirstSeleniumTest.loginScreenTest.executor": "Run",
+    "JUnit.FirstSeleniumTest.monthTestParameterized.executor": "Run",
+    "JUnit.FirstSeleniumTest.newAccountElementsTest.executor": "Run",
+    "JUnit.FirstSeleniumTest.openBrowserTest.executor": "Run",
+    "JUnit.FirstSeleniumTest.signupTest.executor": "Debug",
+    "JUnit.FirstSeleniumTest.yearTest.executor": "Run",
+    "JUnit.FirstSeleniumTest.yearTestParameterized.executor": "Run",
+    "JUnit.NewAccountTest.FindElementsNewAccountTest.executor": "Run",
+    "JUnit.NewAccountTest.birthdayErrorMessageTest.executor": "Run",
+    "JUnit.NewAccountTest.blankFirstNameErrorMessageTest.executor": "Run",
+    "JUnit.NewAccountTest.blankPasswordErrorMessageTest.executor": "Run",
+    "JUnit.NewAccountTest.blankSurNameErrorMessageTest.executor": "Run",
+    "JUnit.NewAccountTest.createNewAccountTest.executor": "Run",
+    "JUnit.NewAccountTest.customGenderFieldTest.executor": "Run",
+    "JUnit.NewAccountTest.emptyFieldsErrorMessagesTest.executor": "Run",
+    "JUnit.NewAccountTest.executor": "Run",
+    "JUnit.NewAccountTest.firstNameErrorMessageTest.executor": "Run",
+    "JUnit.NewAccountTest.genderErrorMessageTest.executor": "Run",
+    "JUnit.NewAccountTest.genderTest.executor": "Run",
+    "JUnit.NewAccountTest.invalidBirthDayErrorMessageTest.executor": "Run",
+    "JUnit.NewAccountTest.invalidEmailTest.executor": "Run",
+    "JUnit.NewAccountTest.lastNameErrorMessageTest.executor": "Run",
+    "JUnit.NewAccountTest.loginScreenTest.executor": "Run",
+    "JUnit.NewAccountTest.longTextTest.executor": "Run",
+    "JUnit.NewAccountTest.monthTest.executor": "Run",
+    "JUnit.NewAccountTest.newAccountPageURLTest.executor": "Run",
+    "JUnit.NewAccountTest.otherTermsLinkTest.executor": "Run",
+    "JUnit.NewAccountTest.passwordErrorMessageTest.executor": "Run",
+    "JUnit.NewAccountTest.privacyPolicyLinkTest.executor": "Run",
+    "JUnit.NewAccountTest.specialCharacterTest.executor": "Run",
+    "JUnit.NewAccountTest.termsLinkTest.executor": "Run",
+    "JUnit.NewAccountTest.testInvalidInputs.executor": "Run",
+    "JUnit.NewAccountTest.testTermsAndDataPolicyLinks.executor": "Run",
+    "JUnit.daviktapesTest.actionTest.executor": "Run",
+    "JUnit.daviktapesTest.executor": "Debug",
+    "Maven.SeleniumPractice [org.apache.maven.plugins:maven-install-plugin:3.1.1:install].executor": "Run",
+    "Maven.SeleniumPractice [package].executor": "Run",
+    "Maven.selenium [package].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/ulianaburakova/Documents/MyProjects/SeleniumPractice/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "/Users/ulianaburakova/Documents/MyProjects/SeleniumPractice/src/main/java/org/example/Main.java",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.DaviktapesTest.testTopMenuOptions">
+    <configuration name="DaviktapesTest.actionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DaviktapesTest" />
+      <option name="METHOD_NAME" value="actionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaviktapesTest.menuActionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DaviktapesTest" />
+      <option name="METHOD_NAME" value="menuActionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaviktapesTest.testTopMenuOptions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DaviktapesTest" />
+      <option name="METHOD_NAME" value="testTopMenuOptions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstSeleniumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstSeleniumTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewAccountTest.privacyPolicyLinkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NewAccountTest" />
+      <option name="METHOD_NAME" value="privacyPolicyLinkTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewAccountTest.termsLinkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NewAccountTest" />
+      <option name="METHOD_NAME" value="termsLinkTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DaviktapesTest.testTopMenuOptions" />
+        <item itemvalue="JUnit.DaviktapesTest.menuActionTest" />
+        <item itemvalue="JUnit.DaviktapesTest.actionTest" />
+        <item itemvalue="JUnit.NewAccountTest.privacyPolicyLinkTest" />
+        <item itemvalue="JUnit.NewAccountTest.termsLinkTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +178,17 @@
       <updated>1715786723990</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
